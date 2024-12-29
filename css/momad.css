@@ -1,0 +1,17 @@
+body {
+    background-image: url(../image/background/ponyo023.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+section {
+    margin: 50px 20% 50px 20%;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+img {
+    width: 100%;
+}

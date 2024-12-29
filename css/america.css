@@ -1,0 +1,14 @@
+body {
+    background-image: url(../image/background/ged009.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+.bt_top{
+    position: relative;
+    left: 1400px;
+    width:90px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,43 @@
+body {
+    background-image: url(../image/background/marnie037.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+.col {
+    background-color: #84a98c;
+    margin-left: 41%;
+    margin-top:2%;
+    width: 260px;
+    height: 50px;
+} 
+#person1 {
+    float: left;
+    margin-left: 50px;
+}
+
+.pic {
+    width: 29.4%;
+    margin-left: 36%;
+    margin-bottom: 2%;
+}
+p {
+    text-align: center; 
+    font-size: 28px;
+    margin-top: -3%;
+    color: #52796f;
+    font-weight: bolder;
+    -webkit-column-break-after: always;
+}
+
+.bt_top{
+    position: relative;
+    left: 1400px;
+    width:90px;
+    margin-bottom: 30px;
+}
+footer {
+    clear: both;
+}

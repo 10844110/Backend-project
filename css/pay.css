@@ -1,0 +1,53 @@
+body {
+    background-image: url(../image/background/kazetachinu050.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+section {
+    margin: 50px 20% 50px 20%;
+}
+h1 {
+    color: #a8dadc;
+}
+.cha {
+    color: #00b4d8;
+    font-size: larger;
+}
+table {
+    width: 100%;
+    font-size: larger;
+    color: #00b4d8;
+}
+td {
+    text-align: left;
+    padding: 10px 0px 10px 80px;
+}
+select {
+    font-size: 18px;
+}
+#total {
+    margin-left: 35%;
+}
+.pay-bt{
+    float: right;
+    padding: 0px 30px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 15px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.send {
+    margin: 0px;
+    padding: 0px 0px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 15px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}

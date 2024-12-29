@@ -1,0 +1,46 @@
+body {
+    background-image: url(../image/background/ponyo050.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+section {
+    margin: 80px 350px 80px 350px;
+}
+h1 {
+    color: #a8dadc;
+}
+label {
+    margin: 20px 5px 20px 20px;
+    font-size: 20px;
+    color: #a8dadc;
+}
+input {
+    font-size: 15px;
+}
+textarea {
+    margin: 0px 0px 5px 115px;
+    font-size: 15px;
+}
+#res {
+    margin: 5px 20px 10px 300px;
+    padding: 10px 20px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 20px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#send {
+    margin: 5px 20px 10px 20px;
+    padding: 10px 20px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 20px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}

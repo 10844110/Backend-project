@@ -1,0 +1,61 @@
+body {
+    background-image: url(../image/background/porco026.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+aside {
+    margin: 20px 20% 10px 20%;
+    text-align: center;
+    background-color: rgba(33, 158, 188);
+    font-size: large;
+    padding: 10px;
+}
+aside a {
+    text-decoration:none;
+    color: #023047;
+    padding: 20px 10px;
+}
+aside a:hover {
+    background-color: #023e8a;
+    color: white;
+}
+h1 {
+    color: #a8dadc;
+    text-indent: 1cm;
+    text-align: center;
+    font-size: 35px;
+}
+form {
+    text-align: center;
+}
+.chan-mem {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00b4d8;
+}
+input {
+    font-size: 20px;
+}
+#res {
+    margin: 5px 20px 10px 7%;
+    padding: 10px 20px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 20px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#send {
+    margin: 5px 20px 10px 20px;
+    padding: 10px 20px;
+    background-color: #a8dadc;
+    color: #023e8a;
+    font-size: 20px;
+    border: #023e8a 3px solid;
+    font-weight: bolder;
+    border-radius: 5px;
+}

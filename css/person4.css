@@ -1,0 +1,73 @@
+body {
+    background-image: url(../image/background/kazetachinu042.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+#sk1 {
+    height: 17px;
+    width: 70%;
+    background-color:#023e8a;
+    animation: ski1 5s ease;
+    animation-iteration-count: infinite;
+    color: #a8dadc;
+    font-size: 13px;
+}
+#sk2 {
+    height: 17px;
+    width: 50%;
+    background-color: #023e8a;
+    animation: ski2 5s ease;
+    animation-iteration-count: infinite;
+    color: #a8dadc;
+    font-size: 13px;
+}
+#sk3 {
+    height: 17px;
+    width: 20%;
+    background-color: #023e8a;
+    animation: ski3 5s ease;
+    animation-iteration-count: infinite;
+    color: #a8dadc;
+    font-size: 13px;
+}
+#sk4 {
+    height: 17px;
+    width: 40%;
+    background-color: #023e8a;
+    animation: ski4 5s ease;
+    animation-iteration-count: infinite;
+    color: #a8dadc;
+    font-size: 13px;
+}
+#sk5 {
+    height: 17px;
+    width: 60%;
+    background-color: #023e8a;
+    animation: ski5 5s ease;
+    animation-iteration-count: infinite;
+    color: #a8dadc;
+    font-size: 13px;
+}
+@keyframes ski1 {
+    0% {width: 0;}
+    100% {width: 70%;}
+}
+@keyframes ski2 {
+    0% {width: 0;}
+    100% {width: 50%;}
+}
+@keyframes ski3 {
+    0% {width: 0;}
+    100% {width: 20%;}
+}
+@keyframes ski4 {
+    0% {width: 0;}
+    100% {width: 40%;}
+}
+@keyframes ski5 {
+    0% {width: 0;}
+    100% {width: 60%;}
+}

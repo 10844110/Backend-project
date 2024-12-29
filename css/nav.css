@@ -1,0 +1,33 @@
+header {
+    position: static;
+    background: linear-gradient(to left,#00b4d8,#ade8f4);
+    width: 101%;
+    height: 100px;
+    margin: -8px;
+    font-family: Papyrus;
+    z-index: 5;
+    font-size: 28px;
+    font-weight: bolder;
+    color: #023e8a;
+}
+.logo {
+    float: left;
+    height: 90px;
+    width: auto;
+    margin-left: 50px;
+    display: block;
+}
+nav {
+    position: absolute;
+    top: 30px;
+    left: 800px;
+}
+nav a {
+    text-decoration:none;
+    color: #023e8a;
+
+}
+.back-nav {
+    position: absolute;
+    left: 1000px;
+}
