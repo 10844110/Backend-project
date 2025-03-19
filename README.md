@@ -1,13 +1,22 @@
-Backend-project(Name:Re-life)<br>
-"If you had the chance to be reborn, what kind of person would you become? What new skills would you like to develop?"
+#  Backend Project - Re-life
 
-Frontend Technologies: HTML, CSS, JavaScript, JSP<br>
-Backend Language: Java (JSP / Servlet)<br>
-Server: Tomcat 10.0<br>
-Database: MySQL<br>
-Deployment: Tomcat deployment
+> **"If you had the chance to be reborn, what kind of person would you become?  
+> What new skills would you like to develop?"**
 
-Ensure your system has the following tools installed:<br>
-Java Development Kit (JDK) 8+ (JDK 11 recommended)<br>
-Apache Tomcat 10.0<br>
-MySQL (Version 8.0+ recommended)
+---
+
+##  Technology Stack
+-  Frontend Technologies: HTML, CSS, JavaScript, JSP  
+-  Backend Language: Java (JSP / Servlet)  
+-  Server: Tomcat 10.0  
+-  Database: MySQL  
+-  Deployment: Tomcat deployment  
+
+---
+
+##  Prerequisites
+Ensure your system has the following tools installed:
+-  Java Development Kit (JDK) 8+ (JDK 11 recommended)
+-  Apache Tomcat 10.0
+-  MySQL (Version 8.0+ recommended)
+
